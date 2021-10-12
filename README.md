@@ -1,11 +1,11 @@
  Hi, I’m Luca Di Fonso 👋
 
-- 👀 I’m interested in tech, sport and videogames
-- 🌱 I’m currently learning Python
-- 📫 Reach out ---> luca.difonso@gmail.com 
+- 👀 Interested in tech, sport and videogames
+- 🌱 Currently learning Python
+- 📧 Reach out ---> luca.difonso@gmail.com 
 - 🔥 Instagram ---> https://www.instagram.com/lucadifonso
 - 🎵 I love to listen chilled instrumental music while coding
-
+- 👪 Dad of two kids
 
 I strongly believe that constant learning is a part of our journey, that is why I started my journing in coding.
 My constant learning in both horizontal and vertical dimensions has landend me some of the best opportunities I could have ever dreamt of in the last few years.
