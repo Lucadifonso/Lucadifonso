@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Lucadifonso
+ Hi, I’m Luca Di Fonso 👋
+
 - 👀 I’m interested in tech, sport and videogames
 - 🌱 I’m currently learning Python
 - 📫 Reach out ---> luca.difonso@gmail.com
