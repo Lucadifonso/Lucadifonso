@@ -3,7 +3,8 @@
 - 👀 I’m interested in tech, sport and videogames
 - 🌱 I’m currently learning Python
 - 📫 Reach out ---> luca.difonso@gmail.com 
-- 📫 Instagram ---> https://www.instagram.com/lucadifonso
+- 🔥 Instagram ---> https://www.instagram.com/lucadifonso
+- 🎵 I love to listen chilled instrumental music while coding
 
 
 I strongly believe that constant learning is a part of our journey, that is why I started my journing in coding.
