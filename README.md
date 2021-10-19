@@ -1,10 +1,11 @@
  Hi, I’m Luca Di Fonso 👋
 
 - 👀 Interested in tech, sport and videogames
-- 🌱 Currently learning Python
+- 🌱 Currently learning Python 
+- 🎯 Full Stack Developer 
 - 📧 Reach out ---> luca.difonso@gmail.com 
 - 🔥 Instagram ---> https://www.instagram.com/lucadifonso
-- 🎵 I love to listen chilled instrumental music while coding
+- 🎵 Chilled instrumental music while coding is my favourite kind of music
 
 
 I strongly believe that constant learning is a part of our journey, that is why I started my journing in coding.
