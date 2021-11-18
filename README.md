@@ -1,7 +1,7 @@
  Hi, I’m Luca Di Fonso 👋
 
 - 👀 Interested in tech, sport and videogames
-- 🌱 Currently learning Python 
+- 🌱 Currently learning HTML, CSS and JavaScript
 - 🎯 Full Stack Developer 
 - 📧 Reach out ---> luca.difonso@gmail.com 
 - 🔥 Instagram ---> https://www.instagram.com/lucadifonso
