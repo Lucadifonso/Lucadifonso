@@ -2,7 +2,7 @@
 
 - 👀 Interested in tech, sport and videogames
 - 🌱 Currently learning HTML, CSS and JavaScript
-- 🎯 Full Stack Developer 
+- 🎯 Developer wannabe :)
 - 📧 Reach out ---> luca.difonso@gmail.com 
 - 🔥 Instagram ---> https://www.instagram.com/lucadifonso
 - 🎵 Chilled instrumental music while coding is my favourite kind of music
